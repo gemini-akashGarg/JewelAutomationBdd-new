@@ -1,0 +1,20 @@
+{
+  "environment": "dev",
+  "projectName": "Jewel-UI-JV",
+  "reportName": "GemJar Jewel Report",
+  "gemjarUserName": "Raghav",
+  "gemjarSubID": "test_id",
+  "glueCode": "StepDefination",
+  "gemjarUserName": "akash.garg",
+  "gemjarToken": "b0a8d2a9-148a-4b8d-aace-43b423cc003d1656932497567",
+  "dev": {
+    "browserName": "chrome",
+    "launchUrl": "https://jewel.gemecosystem.com/#/login",
+    "browserTimeout": 100
+  },
+  "beta": {
+    "browserName": "chrome",
+    "launchUrl": "https://jewel-beta.gemecosystem.com/#/autolytics",
+    "browserTimeout": 100
+  }
+}
