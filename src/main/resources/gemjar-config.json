@@ -5,16 +5,16 @@
   "gemjarUserName": "Raghav",
   "gemjarSubID": "test_id",
   "glueCode": "StepDefination",
-  "gemjarUserName": "akash.garg",
-  "gemjarToken": "b0a8d2a9-148a-4b8d-aace-43b423cc003d1656932497567",
+  "gemjarUserName": "akashgarg",
+  "gemjarToken": "8987eed1-240a-4e58-a576-c498fcf3d36e1662376740468",
   "dev": {
-    "browserName": "chrome",
+    "browserName": "Chrome",
     "launchUrl": "https://jewel.gemecosystem.com/#/login",
-    "browserTimeout": 100
+    "browserTimeout": 10
   },
   "beta": {
     "browserName": "chrome",
     "launchUrl": "https://jewel-beta.gemecosystem.com/#/autolytics",
-    "browserTimeout": 100
+    "browserTimeout": 10
   }
 }
