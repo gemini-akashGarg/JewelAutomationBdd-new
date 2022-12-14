@@ -1,5 +1,6 @@
 package StepDefination;
 
+import com.gemini.generic.bdd.GemJarCucumberBase;
 import com.gemini.generic.reporting.GemTestReporter;
 import com.gemini.generic.reporting.STATUS;
 import com.gemini.generic.ui.utils.DriverAction;
@@ -21,7 +22,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-public class StepDefination {
+public class StepDefination  {
 
     @Given("You are on the login screen")
     public void you_are_on_the_login_screen() {
@@ -607,7 +608,7 @@ public class StepDefination {
     public void you_are_on_the_sign_up_screen() {
 
 
-        DriverAction.navigateToUrl("https://jewel-beta.gemecosystem.com/#/", true);
+        DriverAction.navigateToUrl("https://jewel-beta.gemecosystem.com/#/");
 
 
     }

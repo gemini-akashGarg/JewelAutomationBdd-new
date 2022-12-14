@@ -6,14 +6,14 @@
     <artifactId>JewelUi-Automation</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
     </properties>
     <dependencies>        <!-- https://mvnrepository.com/artifact/com.gemecosystem.gemjar/gemjar-core -->
         <dependency>
             <groupId>com.gemecosystem.gemjar</groupId>
-            <artifactId>gemjar</artifactId>
-            <version>1.0.0</version>
+            <artifactId>gemjar-core</artifactId>
+            <version>1.0.9.1</version>
         </dependency>
     </dependencies>
 </project>
