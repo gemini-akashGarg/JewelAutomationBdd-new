@@ -11,8 +11,8 @@
   "uploadSS": false,
   "feature": "src/main/resources/features",
   "jira": {
-    "email": "kiran.kumari@geminisolutions.com",
-    "accessToken": "4VUAhuhclWKUcm0UGD2wE46B",
+    "email": "akash.garg@geminisolutions.com",
+    "accessToken": "",
     "s_run_id": "GEMECO-API-PY_Beta_8e890ed2-e510-4cec-b3aa-fd1857cf2020",
     "projectId": 10005,
     "suiteName": "TEST_REGRESSION",
